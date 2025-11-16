@@ -2,8 +2,10 @@
   "name": "connexion_serveur",
   "version": "1.0.0",
   "type": "module",
+  "scripts": {
+    "start": "node src/script.js"
+  },
   "dependencies": {
     "playwright": "^1.46.0"
   }
 }
-
